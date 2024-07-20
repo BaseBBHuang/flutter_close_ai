@@ -12,7 +12,7 @@ Flutter 3.13.9
 
 # 预览展示
 
-<img src="https://github.com/bravekingzhang/flutter_chat_box/blob/main/artificial/preview.jpg"  style="width: 50%;">
+<img src="https://github.com/BaseBBHuang/flutter_close_ai/blob/master/artificial/preview.jpg"  style="width: 50%;">
 
 ### 基于开源项目改造
 Github:https://github.com/bravekingzhang/flutter_chat_box
