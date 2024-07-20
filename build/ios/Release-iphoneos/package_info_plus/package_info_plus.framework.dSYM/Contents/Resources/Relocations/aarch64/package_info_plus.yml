@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tianbao/Downloads/flutter_chat_box-main/build/ios/Release-iphoneos/package_info_plus/package_info_plus.framework/package_info_plus'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x56C96, size: 0x8, addend: 0x0, symName: _package_info_plusVersionString, symObjAddr: 0x0, symBinAddr: 0x46F8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x56CCB, size: 0x8, addend: 0x0, symName: _package_info_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0x4728, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x56D08, size: 0x8, addend: 0x0, symName: '+[FPPPackageInfoPlusPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA4 }
+  - { offsetInCU: 0x54, offset: 0x56D35, size: 0x8, addend: 0x0, symName: '+[FPPPackageInfoPlusPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA4 }
+  - { offsetInCU: 0xB3, offset: 0x56D94, size: 0x8, addend: 0x0, symName: '-[FPPPackageInfoPlusPlugin handleMethodCall:result:]', symObjAddr: 0xA4, symBinAddr: 0x40A4, symSize: 0x404 }
+...
